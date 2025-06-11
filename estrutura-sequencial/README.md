@@ -1,6 +1,6 @@
 # 🧠 Exercícios de Lógica de Programação - Estrutura Sequencial (Portugol)
 
-Este repositório contém soluções para exercícios de **estrutura sequencial** utilizando **Portugol**, com base no curso de Algoritmos e Lógica de Programação do Prof. Dr. Nélio Alves.
+Este repositório contém minhas soluções para os exercícios de **estrutura sequencial** utilizando **Portugol**.
 
 Os exercícios focam em prática de entrada/saída de dados, operações matemáticas básicas e estrutura sequencial de código — sem uso de condições ou repetições.
 
@@ -72,7 +72,7 @@ Converte um valor em segundos para o formato `horas:minutos:segundos`.
 Exercícios baseados no material do curso:
 
 **Curso Completo de Algoritmos e Lógica de Programação**  
-Prof. Dr. Nélio Alves – [educandoweb.com.br](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)
+Prof. Dr. Nélio Alves – [Udemy](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)
 
 ---
 
