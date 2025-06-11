@@ -8,11 +8,12 @@ Os exercícios focam em prática de entrada/saída de dados, operações matemá
 
 ## 📑 Índice
 
-- [Como usar](#como-usar)
-- [Tecnologias](#tecnologias)
-- [Exercícios](#exercícios)
-- [Referência](#referência)
-- [Autor](#autor)
+- [Como usar](#-como-usar)
+- [Tecnologias](#-tecnologias)
+- [Exercicios](#-exercícios)
+- [Referencia](#-referência)
+- [Autor](#-autor)
+
 
 ---
 
@@ -33,34 +34,35 @@ Os exercícios focam em prática de entrada/saída de dados, operações matemá
 
 ## 📘 Exercícios
 
-### 📐 Exercício 1 - Terreno  
+### 📐 [Exercício 1 - Terreno](01-TERRENO.ALG)  
+ 
 Lê largura, comprimento e valor do metro quadrado de um terreno e calcula área e preço final.
 
-### 🟩 Exercício 2 - Retângulo  
+### 🟩 [Exercício 2 - Retângulo](02-RETANGULO.ALG)  
 Lê base e altura, e imprime área, perímetro e diagonal com 4 casas decimais.
 
-### 👥 Exercício 3 - Idades  
+### 👥 [Exercício 3 - Idades](03-IDADES.ALG)  
 Lê nome e idade de duas pessoas e calcula a idade média entre elas.
 
-### ➕ Exercício 4 - Soma  
+### ➕ [Exercício 4 - Soma](04-SOMA.ALG)   
 Lê dois números inteiros e mostra a soma.
 
-### 💰 Exercício 5 - Troco  
+### 💰 [Exercício 5 - Troco](05-TROCO.ALG)  
 Calcula o troco com base no valor unitário, quantidade e dinheiro recebido.
 
-### 🟠 Exercício 6 - Círculo  
+### 🟠 [Exercício 6 - Círculo](06-CIRCULO.ALG)  
 Calcula a área de um círculo com base no raio informado.
 
-### 👨‍💼 Exercício 7 - Pagamento  
+### 👨‍💼 [Exercício 7 - Pagamento](07-PAGAMENTO.ALG)   
 Calcula o salário com base no valor por hora e horas trabalhadas.
 
-### ⛽ Exercício 8 - Consumo  
+### ⛽ [Exercício 8 - Consumo](08-CONSUMO.ALG)  
 Calcula o consumo médio de um carro (km por litro).
 
-### 📏 Exercício 9 - Medidas  
+### 📏 [Exercício 9 - Medidas](09-MEDIDAS.ALG)  
 Calcula área de um quadrado, triângulo e trapézio com base em 3 medidas (A, B, C).
 
-### ⏱️ Exercício 10 - Duração  
+### ⏱️ [Exercício 10 - Duração](10-DURACAO.ALG) 
 Converte um valor em segundos para o formato `horas:minutos:segundos`.
 
 ---
